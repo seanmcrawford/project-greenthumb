@@ -21,3 +21,5 @@ while i < 10:
 # while True:
 #     print(time.time())
 #     time.sleep(1)
+
+print(my_list[0])
